@@ -1,2 +1,2 @@
-# A
-JS Api
+# Apis
+Both APIs
